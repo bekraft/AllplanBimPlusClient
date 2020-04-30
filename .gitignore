@@ -1,0 +1,7 @@
+out
+target
+.idea
+*.class
+*.log
+*.sc
+local.application.test.conf
